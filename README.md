@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ![add_exercise_equipment_page](https://github.com/user-attachments/assets/3ff06939-e31c-44e0-b0ef-73426981487b)
 
-![add_exercise_equipment_page](https://github.com/user-attachments/assets/a9819ff7-9a44-4ec3-901f-63f062ac9d1a)
+![add_exercise_equipment_page](https://github.com/user-attachments/assets/a9819ff7-9a44-4ec3-901f-63f062ac9d1a) ![add_exercise_equipment_page](https://github.com/user-attachments/assets/71a99e09-ee8e-4131-b27b-6340267732bb)
