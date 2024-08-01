@@ -15,4 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<img src="images/profile_page.png" alt="profile_page" width="200" height="300" />
+<img src="images/profile_page.png" alt="profile_page" width="150" height="300" />
+<img src="images/profile_page.png" alt="profile_page" width="150" height="300" />
