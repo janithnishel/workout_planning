@@ -29,7 +29,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'App5',
+      title: 'workout planning',
       theme: ThemeData(textTheme: GoogleFonts.interTextTheme(Theme.of(context).textTheme)),
    
       home: Scaffold(
