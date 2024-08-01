@@ -17,10 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <p>
-<img src="images/profile_page.png" alt="profile_page" width="150" height="325" />
-<img src="images/profile_page.png" alt="profile_page" width="150" height="325" />
-<img src="images/profile_page.png" alt="profile_page" width="150" height="325" />
-<img src="images/profile_page.png" alt="profile_page" width="150" height="325" />
-<img src="images/profile_page.png" alt="profile_page" width="150" height="325" />
-<img src="images/profile_page.png" alt="profile_page" width="150" height="325" />
+<img src="images/profile_page.png" alt="profile_page" width="175" height="325" />
+<img src="images/equipment_details_page.png" alt="equipment_details_page" width="175" height="325" />
+<img src="images/exercise_details_page.png" alt="exercise_details_page" width="175" height="325" />
+<img src="images/favorite_page.png" alt="favorite_page" width="175" height="325" />
+<img src="images/home_page.png" alt="home_page" width="175" height="325" />
+<img src="images/add_exercise_equipment_page.png" alt="add_exercise_equipment_page" width="175" height="325" />
 </p>
