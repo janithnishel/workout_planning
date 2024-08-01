@@ -17,6 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <p>
-<<img src="images/profile_page.png" alt="profile_page" width="150" height="300" />
-<img src="images/profile_page.png" alt="profile_page" width="150" height="300" />
+<img src="images/profile_page.png" alt="profile_page" width="150" height="325" />
+<img src="images/profile_page.png" alt="profile_page" width="150" height="325" />
+<img src="images/profile_page.png" alt="profile_page" width="150" height="325" />
+<img src="images/profile_page.png" alt="profile_page" width="150" height="325" />
+<img src="images/profile_page.png" alt="profile_page" width="150" height="325" />
+<img src="images/profile_page.png" alt="profile_page" width="150" height="325" />
 </p>
