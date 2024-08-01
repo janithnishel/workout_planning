@@ -21,4 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-<img src="images/add_exercise_equipment_page.png" alt="Small Screenshot" width="300" />
+<img src="images/add_exercise_equipment_page.png" alt="Small Screenshot" width="800" />
